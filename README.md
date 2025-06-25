@@ -1,4 +1,4 @@
-Hi ! I am Cédric LESUEUR, I am currently 24 years old, and I am living in France. I spent 13 years of my life in Italy, so I speak 3 languages.
+Hi ! I am Cédric LESUEUR, I am currently 25 years old, and I am living in France. I spent 13 years of my life in Italy, so I speak 3 languages.
 I am a young back-end developper and have a master's degree in data science and data engineering.
 
 I have always been found of logic and video games, hence my decision to study computer science and take a master in data science and data engineering.
