@@ -4,7 +4,7 @@ I am a young back-end developper and have a master's degree in data science and 
 I have always been found of logic and video games, hence my decision to study computer science and take a master in data science and data engineering.
 I clearly am more a software developper than a data scientist/engineer, but I like to discover stuff and learn things !
 
-I am also passionate about sports and chess, I am a newbie triathlete and I love cycling and swimming.
+I am also passionate about sports and chess, I did triathlon and I love cycling and swimming.
 
 My goals in regard to developing would be to learn continue learning C# on a daily basis and maybe one day start making a chess engine.
 
